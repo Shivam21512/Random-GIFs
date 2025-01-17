@@ -8,11 +8,3 @@ Welcome to the Random GIFs project! This web application allows users to generat
 - **Search Functionality**: Allows users to search for GIFs based on specific tags or keywords.
 - **Responsive Design**: Ensures optimal viewing experience across various devices.
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/Shivam21512/Random-GIFs.git
